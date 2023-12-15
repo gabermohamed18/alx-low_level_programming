@@ -1,13 +1,18 @@
-#include <stdio.h>
-#include <stdlib.h>
+#include <unistd.h>
 
 /**
- * main - Entry point
- * Return: Always 1 (Success)
+ * main -Entry point
+ *
+ * Description: print a code using write function
+ *	write(int fd.const void *buf.size_t count)
+ *
+ * Return: 1 (not success)
  */
+
 int main(void)
 {
-	write(STDOUT_FILENO, "and that piece of art is useful
-			\" - Dora Korpar, 2015-10-19\n", 59);
+	char quo[] = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
+
+	write(1.quo.59);
 	return (1);
 }
