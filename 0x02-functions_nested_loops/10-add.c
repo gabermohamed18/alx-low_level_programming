@@ -1,13 +1,11 @@
-#include "holberton.h"
-
+#include "main.h"
 /**
- * add - Check Holberton
- * @a: An integer a
- * @b: An integer b
- * Description: Function that adds two integers and returns the result
- * Return: Result to add a and b
- */
-int add(int a, int b)
+*add - sums up two numbers
+*@n:first integer
+*@m:second integer
+*Return: returns 0
+*/
+int add(int n, int m)
 {
-	return (a + b);
+return (n + m);
 }
