@@ -1,8 +1,1 @@
-# **0x03. C - Debugging**
-
-## General
-
-* What is debugging
-* What are some methods of debugging manually
-* How to read the error messages
-
+.3-print_remaining_days.c.swp 0-main.c 1-main.c 2-largest_number.c 3-convert_day.c 3-main_a.c 3-print_remaining_days.c main.h .8-print_square.c.swp 0-isupper.c 1-isdigit.c 10-rint_triangle.c 100-prime_factor.c 101-print_number.c 2-mul.c 3-print_numbers.c 4-print_most_numbers.c 5-more_numbers.c 6-print_line.c 7-print_diagonal.c 8-print_square.c 9-fizz_buzz.c main.h 
